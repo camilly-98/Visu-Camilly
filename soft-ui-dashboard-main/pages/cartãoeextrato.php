@@ -384,40 +384,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xl-6">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="card">
-                    <div class="card-header mx-4 p-3 text-center">
-                      <div class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
-                        <i class="fas fa-landmark opacity-10"></i>
-                      </div>
-                    </div>
-                    <div class="card-body pt-0 p-3 text-center">
-                      <h6 class="text-center mb-0">Salary</h6>
-                      <span class="text-xs">Belong Interactive</span>
-                      <hr class="horizontal dark my-3">
-                      <h5 class="mb-0">+$2000</h5>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6 mt-md-0 mt-4">
-                  <div class="card">
-                    <div class="card-header mx-4 p-3 text-center">
-                      <div class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
-                        <i class="fab fa-paypal opacity-10"></i>
-                      </div>
-                    </div>
-                    <div class="card-body pt-0 p-3 text-center">
-                      <h6 class="text-center mb-0">Paypal</h6>
-                      <span class="text-xs">Freelance Payment</span>
-                      <hr class="horizontal dark my-3">
-                      <h5 class="mb-0">$455.00</h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+           
             <div class="col-md-12 mb-lg-0 mb-4">
               <div class="card mt-4">
                 <div class="card-header pb-0 p-3">
@@ -426,7 +393,7 @@
                       <h6 class="mb-0">Payment Method</h6>
                     </div>
                     <div class="col-6 text-end">
-                      <a class="btn bg-gradient-dark mb-0" href="javascript:;"><i class="fas fa-plus"></i>&nbsp;&nbsp;Add New Card</a>
+                      <a class="btn bg-gradient-dark mb-0" href="javascript:;"><i class="fas fa-plus"></i>&nbsp;&nbsp;Solicitar Cartão</a>
                     </div>
                   </div>
                 </div>
