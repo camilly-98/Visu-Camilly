@@ -9,7 +9,7 @@ if(isset($_POST['sub'])){
 
     $i="insert into usuario(name,username,telefone,password)value('$t','$u','$o', '$p')";
     mysqli_query($con, $i);
-    header('location:entrar.php');
+    header('location:inicio.php');
   }
   $s="select*from usuario where id='$_SESSION[id]'";
     $qu= mysqli_query($con, $s);

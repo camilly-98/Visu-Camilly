@@ -28,7 +28,8 @@
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#about">Acessar</a></li>
                         <li class="nav-item"><a class="nav-link" href="#services">Serviços</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Instituto Sol</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#beneficios">benefícios</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Entre em contato</a></li>
                     </ul>
                 </div>
@@ -44,7 +45,7 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 mb-5">Queremos proporcionar uma experiência única! Fazer a diferença! Facilitar a sua vida e ainda ajudar na sua carreira!</p>
-                        <a class="btn btn-primary btn-xl" href="entrar.php">Crie sua conta!</a>
+                        <a class="btn btn-primary btn-xl" href="cadastrar.php">Crie sua conta!</a>
                     </div>
                 </div>
             </div>
